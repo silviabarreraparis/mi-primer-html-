@@ -1,0 +1,27 @@
+
+/*CSS lenguaje*/
+article{
+    font: bold;
+    background-color: orange;
+    color: #fff
+    
+}
+img{
+    width: 200px;
+    height: 300px;
+}
+
+#pinguino1{
+   
+    height: 100px;
+}
+
+li
+{
+    display: inline;
+}
+
+.grupo1{
+    background-color: purple;
+    color: white;
+}
